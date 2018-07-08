@@ -17,6 +17,8 @@
     * git push: Pushes the local changes to remote.
     * git log: Logs the commits.
     * git reset --hard <COMMIT_ID>: Points to mentioned commit id.
+    * git config --global user.email "kiranbangale@gmail.com": sets email id.
+    * git config --global user.name "kiranbangale": sets user name.
 
 # Source Tree: 
   Source tree is tool to manage multiple git repositories easly. It allows branching, fatching, pulling, pushing, etc.
