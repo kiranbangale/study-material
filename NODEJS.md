@@ -14,3 +14,6 @@
   * npm install <PACKAGE_NAME> --save-dev: Installs mentioned package as dev dependency.
   * npm i -g npm-upgrade: Upgrades npm globally.
   * npm -v: Displays the current installed npm version.
+  
+# Gulp:
+  Gulp is the task runner for js for carrying out various operations like uglify, minify, etc.
